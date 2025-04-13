@@ -3,7 +3,7 @@
   "name": "ToDo PWA App Test",
   "short_name": "ToDo App",
   "description": "A basic ToDo PWA app for testing purposes.",
-  "start_url": "/",
+  "start_url": "/pwa-github-test/",
   "background_color": "#333",
   "theme_color": "#333",
   "orientation": "any",
