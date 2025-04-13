@@ -2,6 +2,7 @@
   "lang": "en-us",
   "name": "ToDo PWA App Test",
   "short_name": "ToDo App",
+  "id": "io.github.jagofr.todo-pwa",
   "description": "A basic ToDo PWA app for testing purposes.",
   "start_url": "/pwa-github-test/",
   "background_color": "#333",
