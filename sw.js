@@ -5,9 +5,9 @@ self.addEventListener('install', event => {
   event.waitUntil((async () => {
     const cache = await caches.open(CACHE_NAME);
     cache.addAll([
-      '/pwa-github-test/',
-      '/pwa-github-test/res/styles/css/app.css',
-      '/pwa-github-test/res/ico/'
+      '/',
+      '/res/styles/css/app.css',
+      '/res/ico/'
 
     ]);
   })());
